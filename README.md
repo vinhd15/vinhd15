@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinhd15
-- 👀 I’m interested in ... Java and C Programming.
-- 🌱 I’m currently learning ... Software Engineering at GWU
+- 👀 I’m interested in ... General Software Development.
+- 🌱 I’m currently learning ... Information Systems and Technology Managment at GWU
 - 💞️ I’m looking to collaborate on ... Side projects
 - 📫 How to reach me ... @vinhd15#7826 on discord, vinay.misra.15@gmail.com
 <!---
